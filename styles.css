@@ -1,0 +1,16 @@
+#homepage-info {
+  color: red;
+  padding-top: 10%;
+  text-align: center;
+}
+
+#homepage-banner {
+  background-color: green;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  text-align: center;
+}
+
+#homepage-about {
+  text-align: center;
+}
