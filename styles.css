@@ -1,7 +1,17 @@
 #homepage-info {
-  color: red;
-  padding-top: 10%;
+  color: black;
+  font-family: "Ezarion", sans-serif;
+  padding-top: 5%;
   text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
 }
 
 #homepage-banner {
@@ -13,4 +23,12 @@
 
 #homepage-about {
   text-align: center;
+}
+
+.d-block {
+  height: 250px;
+}
+
+body {
+  font-family: "Ezarion", sans-serif;
 }
