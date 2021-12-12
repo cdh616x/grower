@@ -25,6 +25,13 @@ img {
   text-align: center;
   margin-left: 0;
   margin-right: 0;
+  padding: 0;
+  position: relative;
+  right: 4px;
+}
+
+.col-lg-8, .col-lg-4 {
+  padding: 0;
 }
 
 #homepage-about {
