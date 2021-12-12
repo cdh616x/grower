@@ -1,8 +1,17 @@
 #homepage-info {
-  color: black;
+  background-color: black;
+  color: #FBF3E4;
   font-family: "Ezarion", sans-serif;
   padding-top: 5%;
+  padding-bottom: 5%;
   text-align: center;
+}
+.row1 {
+  background-color:
+}
+
+.container-fluid {
+  padding: 0;
 }
 
 h3 {
@@ -15,10 +24,10 @@ img {
 }
 
 #homepage-banner {
-  background-color: grey;
-  margin-top: 10%;
   margin-bottom: 10%;
   text-align: center;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 #homepage-about {
@@ -31,4 +40,13 @@ img {
 
 body {
   font-family: "Ezarion", sans-serif;
+  background: linear-gradient(90deg, #FBF3E4, #105652);
+}
+
+html, body {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
 }
