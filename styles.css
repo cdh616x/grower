@@ -1,5 +1,4 @@
 #homepage-info {
-  background-color: black;
   color: #FBF3E4;
   font-family: "Ezarion", sans-serif;
   padding-top: 5%;
@@ -22,7 +21,6 @@ img {
 }
 
 #homepage-banner {
-  background-color: black;
   margin-bottom: 10%;
   text-align: center;
   margin-left: 0;
