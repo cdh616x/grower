@@ -49,6 +49,20 @@ img {
   margin-right: 5%;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #B91646;
+}
+
+.footer {
+  padding-top: 5%;
+  text-align: center;
+}
+
 body {
   font-family: "Ezarion", sans-serif;
   background: linear-gradient(90deg, #FBF3E4, #105652);
